@@ -1,0 +1,298 @@
+[
+    {
+        "categoria": "Copa do Mundo",
+        "dificuldade": "fácil",
+        "pergunta": "Qual país venceu a Copa do Mundo de 2018?",
+        "opcoes": ["Brasil", "França", "Alemanha", "Argentina"],
+        "resposta": "França"
+    },
+    {
+        "categoria": "Copa do Mundo",
+        "dificuldade": "médio",
+        "pergunta": "Qual foi o maior artilheiro da Copa do Mundo de 2006?",
+        "opcoes": ["Miroslav Klose", "Ronaldo", "Thierry Henry", "David Villa"],
+        "resposta": "Miroslav Klose"
+    },
+    {
+        "categoria": "Copa do Mundo",
+        "dificuldade": "difícil",
+        "pergunta": "Quantas seleções participaram da Copa do Mundo de 1998?",
+        "opcoes": ["24", "32", "16", "28"],
+        "resposta": "32"
+    },
+    {
+        "categoria": "Copa do Mundo",
+        "dificuldade": "fácil",
+        "pergunta": "Em qual país a Copa do Mundo de 2014 foi realizada?",
+        "opcoes": ["Brasil", "Rússia", "Alemanha", "França"],
+        "resposta": "Brasil"
+    },
+    {
+        "categoria": "Copa do Mundo",
+        "dificuldade": "médio",
+        "pergunta": "Qual seleção foi vice-campeã da Copa do Mundo de 2010?",
+        "opcoes": ["Brasil", "Alemanha", "Holanda", "Argentina"],
+        "resposta": "Holanda"
+    },
+    {
+        "categoria": "Copa do Mundo",
+        "dificuldade": "difícil",
+        "pergunta": "Qual jogador foi o artilheiro da Copa do Mundo de 1986?",
+        "opcoes": ["Diego Maradona", "Gary Lineker", "Michel Platini", "Jürgen Klinsmann"],
+        "resposta": "Gary Lineker"
+    },
+    {
+        "categoria": "Jogadores",
+        "dificuldade": "fácil",
+        "pergunta": "Quem é conhecido como 'O Fenômeno'?",
+        "opcoes": ["Neymar", "Cristiano Ronaldo", "Ronaldinho", "Ronaldo Fenômeno"],
+        "resposta": "Ronaldo Fenômeno"
+    },
+    {
+        "categoria": "Jogadores",
+        "dificuldade": "médio",
+        "pergunta": "Qual jogador tem o maior número de gols pela Seleção Brasileira?",
+        "opcoes": ["Neymar", "Romário", "Pelé", "Zico"],
+        "resposta": "Neymar"
+    },
+    {
+        "categoria": "Jogadores",
+        "dificuldade": "difícil",
+        "pergunta": "Qual jogador foi o primeiro brasileiro a ganhar a Bola de Ouro?",
+        "opcoes": ["Ronaldo Fenômeno", "Rivaldo", "Kaká", "Neymar"],
+        "resposta": "Rivaldo"
+    },
+    {
+        "categoria": "Jogadores",
+        "dificuldade": "fácil",
+        "pergunta": "Quem foi o jogador mais caro do futebol até 2021?",
+        "opcoes": ["Cristiano Ronaldo", "Neymar", "Kylian Mbappé", "Lionel Messi"],
+        "resposta": "Neymar"
+    },
+    {
+        "categoria": "Jogadores",
+        "dificuldade": "médio",
+        "pergunta": "Qual jogador foi o primeiro a vencer a Liga dos Campeões com 3 clubes diferentes?",
+        "opcoes": ["Samuel Eto'o", "Cristiano Ronaldo", "Lionel Messi", "Zlatan Ibrahimović"],
+        "resposta": "Samuel Eto'o"
+    },
+    {
+        "categoria": "Clubes",
+        "dificuldade": "fácil",
+        "pergunta": "Qual é o maior clube do Brasil?",
+        "opcoes": ["Flamengo", "Palmeiras", "São Paulo", "Corinthians"],
+        "resposta": "Flamengo"
+    },
+    {
+        "categoria": "Clubes",
+        "dificuldade": "médio",
+        "pergunta": "Qual clube venceu a Liga dos Campeões da UEFA em 2012?",
+        "opcoes": ["Barcelona", "Chelsea", "Real Madrid", "Bayern de Munique"],
+        "resposta": "Chelsea"
+    },
+    {
+        "categoria": "Clubes",
+        "dificuldade": "difícil",
+        "pergunta": "Qual clube foi o primeiro campeão da Copa Libertadores?",
+        "opcoes": ["Boca Juniors", "Peñarol", "Independiente", "River Plate"],
+        "resposta": "Peñarol"
+    },
+    {
+        "categoria": "Clubes",
+        "dificuldade": "fácil",
+        "pergunta": "Qual clube brasileiro tem mais títulos de Copa do Brasil?",
+        "opcoes": ["Flamengo", "Grêmio", "Cruzeiro", "Atlético Mineiro"],
+        "resposta": "Cruzeiro"
+    },
+    {
+        "categoria": "Clubes",
+        "dificuldade": "médio",
+        "pergunta": "Qual clube foi campeão da Libertadores de 2013?",
+        "opcoes": ["Atlético Mineiro", "Flamengo", "São Paulo", "Grêmio"],
+        "resposta": "Atlético Mineiro"
+    },
+    {
+        "categoria": "História",
+        "dificuldade": "fácil",
+        "pergunta": "Quem foi o primeiro jogador negro a atuar pela Seleção Brasileira?",
+        "opcoes": ["Zé Roberto", "Afonso", "Marinho Chagas", "Tostão"],
+        "resposta": "Afonso"
+    },
+    {
+        "categoria": "História",
+        "dificuldade": "médio",
+        "pergunta": "Em que ano o Brasil conquistou seu primeiro título mundial?",
+        "opcoes": ["1958", "1962", "1970", "1982"],
+        "resposta": "1958"
+    },
+    {
+        "categoria": "História",
+        "dificuldade": "difícil",
+        "pergunta": "Quem foi o capitão da Seleção Brasileira na Copa do Mundo de 1994?",
+        "opcoes": ["Dunga", "Romário", "Raí", "Bebeto"],
+        "resposta": "Dunga"
+    },
+    {
+        "categoria": "História",
+        "dificuldade": "fácil",
+        "pergunta": "Quem foi o maior artilheiro da história das Copas do Mundo?",
+        "opcoes": ["Miroslav Klose", "Ronaldo Fenômeno", "Pele", "Thierry Henry"],
+        "resposta": "Miroslav Klose"
+    },
+    {
+        "categoria": "História",
+        "dificuldade": "médio",
+        "pergunta": "Qual time venceu a primeira Copa do Mundo de Futebol?",
+        "opcoes": ["Uruguai", "Brasil", "Argentina", "Alemanha"],
+        "resposta": "Uruguai"
+    },
+
+    {
+        "categoria": "Copa do Mundo",
+        "dificuldade": "fácil",
+        "pergunta": "Qual país venceu a Copa do Mundo de 2018?",
+        "opcoes": ["Brasil", "França", "Alemanha", "Argentina"],
+        "resposta": "França"
+      },
+      {
+        "categoria": "Copa do Mundo",
+        "dificuldade": "médio",
+        "pergunta": "Qual foi o maior artilheiro da Copa do Mundo de 2006?",
+        "opcoes": ["Miroslav Klose", "Ronaldo", "Thierry Henry", "David Villa"],
+        "resposta": "Miroslav Klose"
+      },
+      {
+        "categoria": "Copa do Mundo",
+        "dificuldade": "difícil",
+        "pergunta": "Quantas seleções participaram da Copa do Mundo de 1998?",
+        "opcoes": ["24", "32", "16", "28"],
+        "resposta": "32"
+      },
+      {
+        "categoria": "Jogadores",
+        "dificuldade": "fácil",
+        "pergunta": "Quem é conhecido como 'O Fenômeno'?",
+        "opcoes": ["Neymar", "Cristiano Ronaldo", "Ronaldinho", "Ronaldo Fenômeno"],
+        "resposta": "Ronaldo Fenômeno"
+      },
+      {
+        "categoria": "Jogadores",
+        "dificuldade": "médio",
+        "pergunta": "Qual jogador tem o maior número de gols pela Seleção Brasileira?",
+        "opcoes": ["Neymar", "Romário", "Pelé", "Zico"],
+        "resposta": "Neymar"
+      },
+      {
+        "categoria": "Jogadores",
+        "dificuldade": "difícil",
+        "pergunta": "Qual jogador foi o primeiro brasileiro a ganhar a Bola de Ouro?",
+        "opcoes": ["Ronaldo Fenômeno", "Rivaldo", "Kaká", "Neymar"],
+        "resposta": "Rivaldo"
+      },
+      {
+        "categoria": "Clubes",
+        "dificuldade": "fácil",
+        "pergunta": "Qual é o maior clube do Brasil?",
+        "opcoes": ["Flamengo", "Palmeiras", "São Paulo", "Corinthians"],
+        "resposta": "Flamengo"
+      },
+      {
+        "categoria": "Clubes",
+        "dificuldade": "médio",
+        "pergunta": "Qual clube venceu a Liga dos Campeões da UEFA em 2012?",
+        "opcoes": ["Barcelona", "Chelsea", "Real Madrid", "Bayern de Munique"],
+        "resposta": "Chelsea"
+      },
+      {
+        "categoria": "Clubes",
+        "dificuldade": "difícil",
+        "pergunta": "Qual clube foi o primeiro campeão da Copa Libertadores?",
+        "opcoes": ["Boca Juniors", "Peñarol", "Independiente", "River Plate"],
+        "resposta": "Peñarol"
+      },
+      {
+        "categoria": "Estádios",
+        "dificuldade": "fácil",
+        "pergunta": "Qual é o maior estádio do Brasil?",
+        "opcoes": ["Maracanã", "Arena Corinthians", "Mineirão", "Morumbi"],
+        "resposta": "Maracanã"
+      },
+      {
+        "categoria": "Estádios",
+        "dificuldade": "médio",
+        "pergunta": "Qual estádio sediou a final da Copa do Mundo de 2014?",
+        "opcoes": ["Maracanã", "Arena Castelão", "Mineirão", "Estádio do Maracanã"],
+        "resposta": "Maracanã"
+      },
+      {
+        "categoria": "Estádios",
+        "dificuldade": "difícil",
+        "pergunta": "Qual é o nome do estádio do Barcelona?",
+        "opcoes": ["Camp Nou", "Santiago Bernabéu", "Old Trafford", "Allianz Arena"],
+        "resposta": "Camp Nou"
+      },
+      {
+        "categoria": "Futebol Internacional",
+        "dificuldade": "fácil",
+        "pergunta": "Qual país é o atual campeão da Eurocopa?",
+        "opcoes": ["França", "Portugal", "Itália", "Espanha"],
+        "resposta": "Itália"
+      },
+      {
+        "categoria": "Futebol Internacional",
+        "dificuldade": "médio",
+        "pergunta": "Qual país é o maior vencedor da Copa América?",
+        "opcoes": ["Brasil", "Argentina", "Uruguai", "Chile"],
+        "resposta": "Uruguai"
+      },
+      {
+        "categoria": "Futebol Internacional",
+        "dificuldade": "difícil",
+        "pergunta": "Quem é o jogador com mais gols na história da Liga dos Campeões da UEFA?",
+        "opcoes": ["Cristiano Ronaldo", "Lionel Messi", "Raul", "Robert Lewandowski"],
+        "resposta": "Cristiano Ronaldo"
+      },
+      {
+        "categoria": "Recordes",
+        "dificuldade": "fácil",
+        "pergunta": "Qual jogador tem o recorde de gols em uma temporada de Premier League?",
+        "opcoes": ["Mohamed Salah", "Cristiano Ronaldo", "Harry Kane", "Sergio Agüero"],
+        "resposta": "Mohamed Salah"
+      },
+      {
+        "categoria": "Recordes",
+        "dificuldade": "médio",
+        "pergunta": "Qual time tem o maior número de vitórias na história da Copa do Mundo?",
+        "opcoes": ["Brasil", "Alemanha", "Itália", "Argentina"],
+        "resposta": "Brasil"
+      },
+      {
+        "categoria": "Recordes",
+        "dificuldade": "difícil",
+        "pergunta": "Qual jogador detém o recorde de maior número de jogos pela Seleção Brasileira?",
+        "opcoes": ["Cafu", "Dunga", "Neymar", "Zico"],
+        "resposta": "Cafu"
+      },
+      {
+        "categoria": "Técnicas de Jogo",
+        "dificuldade": "fácil",
+        "pergunta": "Qual é a posição de Neymar no campo?",
+        "opcoes": ["Atacante", "Meio-campo", "Goleiro", "Zagueiro"],
+        "resposta": "Atacante"
+      },
+      {
+        "categoria": "Técnicas de Jogo",
+        "dificuldade": "médio",
+        "pergunta": "Qual é a principal habilidade de Cristiano Ronaldo em campo?",
+        "opcoes": ["Dribles", "Cabeceio", "Passes", "Velocidade"],
+        "resposta": "Cabeceio"
+      },
+      {
+        "categoria": "Técnicas de Jogo",
+        "dificuldade": "difícil",
+        "pergunta": "Qual é o nome da técnica de drible famosa de Ronaldinho?",
+        "opcoes": ["Elástico", "Chapéu", "Rabona", "Pedalada"],
+        "resposta": "Elástico"
+      }
+    ]
+  
